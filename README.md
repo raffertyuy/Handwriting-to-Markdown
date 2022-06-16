@@ -3,10 +3,14 @@ This is an Azure Logic Apps that checks a OneDrive folder for new files and conv
 
 You can read more about this logic app in this [blog post](/raztype/handwriting-to-second-brain/).
 
-## Quick Deploy to Azure
+## The Logic App
+**Screenshot 1**
 ![Logic App Screenshot 1](/img/logicapp-part1.png)
+
+**Screenshot 2**
 ![Logic App Screenshot 2](/img/logicapp-part2.png)
 
+## Quick Deploy to Azure
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fraffertyuy%2FHandwriting-to-Markdown%2Fmaster%2FHandwriting-to-Markdown-LogicApp%2Fazuredeploy.json)
 
 ## Potential Enhancements
